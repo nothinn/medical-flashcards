@@ -12,6 +12,8 @@
             <h1>Veterinærmedicin Flashcards</h1>
             <div class="progress">
                 <span id="current-card">1</span> / <span id="total-cards">75</span>
+                <span class="separator">•</span>
+                <span class="known-count">Kendt: <span id="known-cards">0</span></span>
             </div>
         </header>
 
@@ -41,6 +43,12 @@
             <button id="prev-btn" class="btn">← Forrige</button>
             <button id="flip-btn" class="btn btn-primary">Vend kort</button>
             <button id="next-btn" class="btn">Næste →</button>
+        </div>
+
+        <div class="action-controls">
+            <button id="shuffle-btn" class="btn btn-secondary">🔀 Bland kort</button>
+            <button id="remove-unknown-btn" class="btn btn-warning">❌ Fjern ukendte</button>
+            <button id="mark-known-btn" class="btn btn-success">✓ Markér som kendt</button>
         </div>
 
         <div class="progress-bar">

@@ -5,10 +5,12 @@
 
 class FlashCardApp {
     constructor() {
-        this.medications = [];
+        this.allMedications = []; // Original full list
+        this.medications = [];    // Current active list (filtered)
         this.currentIndex = 0;
         this.isFlipped = false;
         this.viewedCards = new Set();
+        this.knownCards = new Set(); // Track cards marked as known
 
         // DOM elements
         this.flashcard = document.getElementById('flashcard');
@@ -21,10 +23,14 @@ class FlashCardApp {
         this.sourceLink = document.getElementById('source-link');
         this.currentCardSpan = document.getElementById('current-card');
         this.totalCardsSpan = document.getElementById('total-cards');
+        this.knownCardsSpan = document.getElementById('known-cards');
         this.progressFill = document.getElementById('progress-fill');
         this.prevBtn = document.getElementById('prev-btn');
         this.nextBtn = document.getElementById('next-btn');
         this.flipBtn = document.getElementById('flip-btn');
+        this.shuffleBtn = document.getElementById('shuffle-btn');
+        this.removeUnknownBtn = document.getElementById('remove-unknown-btn');
+        this.markKnownBtn = document.getElementById('mark-known-btn');
     }
 
     async init() {
@@ -43,8 +49,9 @@ class FlashCardApp {
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-        this.medications = await response.json();
-        this.totalCardsSpan.textContent = this.medications.length;
+        this.allMedications = await response.json();
+        this.medications = [...this.allMedications]; // Copy for active list
+        this.updateTotalCards();
     }
 
     setupEventListeners() {
@@ -52,6 +59,9 @@ class FlashCardApp {
         this.flipBtn.addEventListener('click', () => this.flipCard());
         this.nextBtn.addEventListener('click', () => this.nextCard());
         this.prevBtn.addEventListener('click', () => this.previousCard());
+        this.shuffleBtn.addEventListener('click', () => this.shuffleCards());
+        this.removeUnknownBtn.addEventListener('click', () => this.removeUnknownMeds());
+        this.markKnownBtn.addEventListener('click', () => this.markAsKnown());
 
         // Card click to flip
         this.flashcard.addEventListener('click', () => this.flipCard());
@@ -190,9 +200,87 @@ class FlashCardApp {
         // Update card counter
         this.currentCardSpan.textContent = this.currentIndex + 1;
 
-        // Update progress bar
+        // Update known cards counter
+        this.knownCardsSpan.textContent = this.knownCards.size;
+
+        // Update progress bar based on position in current deck
         const progressPercent = ((this.currentIndex + 1) / this.medications.length) * 100;
         this.progressFill.style.width = `${progressPercent}%`;
+    }
+
+    updateTotalCards() {
+        this.totalCardsSpan.textContent = this.medications.length;
+        this.knownCardsSpan.textContent = this.knownCards.size;
+    }
+
+    shuffleCards() {
+        // Fisher-Yates shuffle algorithm
+        const shuffled = [...this.medications];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        this.medications = shuffled;
+        this.currentIndex = 0;
+        this.resetCard();
+        this.showMessage('Kortene er blandet!', 'success');
+    }
+
+    removeUnknownMeds() {
+        const beforeCount = this.medications.length;
+        this.medications = this.medications.filter(med => med.found);
+        const removedCount = beforeCount - this.medications.length;
+
+        if (removedCount > 0) {
+            // Adjust current index if needed
+            if (this.currentIndex >= this.medications.length) {
+                this.currentIndex = Math.max(0, this.medications.length - 1);
+            }
+            this.updateTotalCards();
+            this.resetCard();
+            this.showMessage(`${removedCount} ukendte mediciner fjernet!`, 'success');
+        } else {
+            this.showMessage('Ingen ukendte mediciner at fjerne', 'info');
+        }
+    }
+
+    markAsKnown() {
+        const currentMed = this.medications[this.currentIndex];
+        const medId = `${currentMed.input_name}-${currentMed.varenr}`;
+
+        // Mark as known
+        this.knownCards.add(medId);
+
+        // Remove from active medications
+        this.medications.splice(this.currentIndex, 1);
+
+        if (this.medications.length === 0) {
+            this.showMessage('Tillykke! Alle kort er markeret som kendt! 🎉', 'success');
+            this.currentIndex = 0;
+        } else {
+            // Adjust index if at end of deck
+            if (this.currentIndex >= this.medications.length) {
+                this.currentIndex = 0;
+            }
+        }
+
+        this.updateTotalCards();
+        this.resetCard();
+        this.showMessage('Markeret som kendt!', 'success');
+    }
+
+    showMessage(message, type = 'info') {
+        // Create a temporary message element
+        const messageEl = document.createElement('div');
+        messageEl.className = `message message-${type}`;
+        messageEl.textContent = message;
+        document.body.appendChild(messageEl);
+
+        // Remove after 2 seconds
+        setTimeout(() => {
+            messageEl.classList.add('fade-out');
+            setTimeout(() => messageEl.remove(), 300);
+        }, 2000);
     }
 
     showError(message) {
