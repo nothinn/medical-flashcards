@@ -24,7 +24,7 @@ med-flash-cards/
 │   ├── url_mapper.py                # URL mapping logic
 │   ├── parser.py                    # HTML parsing
 │   └── requirements.txt             # Python dependencies
-├── public/                          # Frontend (GitHub Pages)
+├── docs/                            # Frontend (GitHub Pages)
 │   ├── index.html                   # Main UI
 │   ├── styles.css                   # Styling
 │   ├── app.js                       # Flash card logic
@@ -71,7 +71,7 @@ This will create:
 python3 transform_data.py
 ```
 
-This copies the scraped data to `public/data/medications.json` in the format needed by the frontend.
+This copies the scraped data to `docs/data/medications.json` in the format needed by the frontend.
 
 ### 4. Test Locally
 
@@ -98,7 +98,7 @@ git push -u origin main
 Then configure GitHub Pages:
 1. Go to repository Settings → Pages
 2. Source: Deploy from a branch
-3. Branch: `main`, Folder: `/public`
+3. Branch: `main`, Folder: `/docs`
 4. Save
 
 Your site will be available at: `https://YOUR_USERNAME.github.io/med-flash-cards/`

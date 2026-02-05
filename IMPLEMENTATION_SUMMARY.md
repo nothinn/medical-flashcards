@@ -12,7 +12,7 @@ All components have been successfully implemented according to the plan.
 - ✅ `parser.py` - BeautifulSoup HTML parsing for SPC pages
 - ✅ `requirements.txt` - Python dependencies (requests, beautifulsoup4, lxml)
 
-### Frontend (public/)
+### Frontend (docs/)
 - ✅ `index.html` - Flash card UI with semantic HTML
 - ✅ `styles.css` - 3D flip animation and responsive design
 - ✅ `app.js` - Flash card state management and keyboard controls
@@ -85,7 +85,7 @@ cd ..
 python3 transform_data.py
 ```
 
-This creates `public/data/medications.json` for the frontend.
+This creates `docs/data/medications.json` for the frontend.
 
 ### 5. Test Locally
 ```bash
@@ -123,7 +123,7 @@ Before deploying, verify:
 - [ ] Scraper runs successfully
 - [ ] At least 60+ medications scraped successfully
 - [ ] Failed medications are listed in report
-- [ ] `public/data/medications.json` exists
+- [ ] `docs/data/medications.json` exists
 - [ ] Local server runs on http://localhost:8000
 - [ ] Flash cards display correctly
 - [ ] Card flip animation works smoothly

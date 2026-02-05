@@ -70,7 +70,7 @@ med-flash-cards/
 │   ├── url_mapper.py                ✅ 141 lines
 │   ├── parser.py                    ✅ 163 lines
 │   └── requirements.txt             ✅ 3 dependencies
-├── public/
+├── docs/
 │   ├── index.html                   ✅ 56 lines
 │   ├── styles.css                   ✅ 226 lines
 │   ├── app.js                       ✅ 219 lines
@@ -127,7 +127,7 @@ python3 transform_data.py
 ```
 
 **What to expect:**
-- Creates `public/data/medications.json`
+- Creates `docs/data/medications.json`
 - Shows summary of successful vs failed medications
 
 ### Step 5: Test Locally
@@ -176,7 +176,7 @@ Before deploying, test:
 - [ ] Full scrape completes
 - [ ] Review `scraping_report.txt`
 - [ ] `transform_data.py` runs successfully
-- [ ] `public/data/medications.json` created
+- [ ] `docs/data/medications.json` created
 - [ ] Local server starts
 - [ ] Flash cards display in browser
 - [ ] Card flip animation works

@@ -70,7 +70,7 @@ cd ..
 python3 transform_data.py
 ```
 
-This converts `data/medications_scraped.json` to `public/data/medications.json` in the format needed by the frontend.
+This converts `data/medications_scraped.json` to `docs/data/medications.json` in the format needed by the frontend.
 
 ### 5. Test Locally
 
@@ -176,8 +176,8 @@ python3 scraper.py --delay 2.5
 
 **Problem:** "Failed to load medications"
 - Check browser console for errors
-- Verify `public/data/medications.json` exists
-- Check JSON is valid: `python3 -m json.tool public/data/medications.json`
+- Verify `docs/data/medications.json` exists
+- Check JSON is valid: `python3 -m json.tool docs/data/medications.json`
 
 **Problem:** Cards not flipping
 - Hard refresh browser: Ctrl+Shift+R (or Cmd+Shift+R on Mac)
@@ -192,11 +192,11 @@ python3 scraper.py --delay 2.5
 **Problem:** GitHub Pages shows 404
 - Wait 2-3 minutes after configuring Pages
 - Verify folder is set to `/public` not `/root`
-- Check that `public/index.html` exists in your repository
+- Check that `docs/index.html` exists in your repository
 
 **Problem:** Site loads but shows errors
 - Check browser console
-- Verify `public/data/medications.json` exists in repo
+- Verify `docs/data/medications.json` exists in repo
 - Ensure all files were committed and pushed
 
 ## Directory Structure After Setup
@@ -213,7 +213,7 @@ med-flash-cards/
 │   ├── url_mapper.py
 │   ├── parser.py
 │   └── requirements.txt
-├── public/
+├── docs/
 │   ├── index.html
 │   ├── styles.css
 │   ├── app.js

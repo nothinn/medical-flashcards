@@ -33,12 +33,12 @@ python3 server.py
 ### Files You'll Get After Scraping
 - **data/medications_scraped.json** - Raw scraped data
 - **data/scraping_report.txt** - Success/failure report
-- **public/data/medications.json** - Frontend-ready data
+- **docs/data/medications.json** - Frontend-ready data
 
 ### Frontend Files (already complete)
-- **public/index.html** - Flash card interface
-- **public/styles.css** - Styling
-- **public/app.js** - Interactive logic
+- **docs/index.html** - Flash card interface
+- **docs/styles.css** - Styling
+- **docs/app.js** - Interactive logic
 
 ### Documentation
 - **README.md** - Main documentation
@@ -66,12 +66,12 @@ python3 server.py
 ### `python3 transform_data.py`
 - Converts scraped data to frontend format
 - Takes < 1 second
-- Creates: `public/data/medications.json`
+- Creates: `docs/data/medications.json`
 - Shows summary statistics
 
 ### `python3 server.py`
 - Starts local web server on port 8000
-- Serves files from `public/` directory
+- Serves files from `docs/` directory
 - Open http://localhost:8000 to test
 - Press Ctrl+C to stop
 
@@ -124,10 +124,10 @@ python3 scraper.py --delay 2.5
 ### "Failed to load medications" in browser
 ```bash
 # Check that the JSON file exists
-ls -l public/data/medications.json
+ls -l docs/data/medications.json
 
 # Validate the JSON
-python3 -m json.tool public/data/medications.json
+python3 -m json.tool docs/data/medications.json
 ```
 
 ### GitHub Pages shows 404
@@ -167,7 +167,7 @@ python3 transform_data.py
 4. Git commit and push
 
 ### Updating Frontend
-1. Edit files in `public/`
+1. Edit files in `docs/`
 2. Test with `python3 server.py`
 3. Git commit and push
 4. GitHub Pages updates automatically

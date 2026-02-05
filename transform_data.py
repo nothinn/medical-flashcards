@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Transform scraped data to frontend format.
-Reads from data/medications_scraped.json and writes to public/data/medications.json
+Reads from data/medications_scraped.json and writes to docs/data/medications.json
 """
 import json
 import os
@@ -10,7 +10,7 @@ import os
 def transform_data():
     """Transform scraped data for frontend consumption."""
     input_file = 'data/medications_scraped.json'
-    output_file = 'public/data/medications.json'
+    output_file = 'docs/data/medications.json'
 
     # Check if input file exists
     if not os.path.exists(input_file):
