@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veterinærmedicin Flashcards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Veterinærmedicin Flashcards</h1>
+            <div class="progress">
+                <span id="current-card">1</span> / <span id="total-cards">75</span>
+            </div>
+        </header>
+
+        <div class="card-container">
+            <div class="card" id="flashcard">
+                <div class="card-face card-front">
+                    <h2 id="card-question"></h2>
+                    <p class="varenr" id="card-varenr"></p>
+                    <p class="match-notice" id="match-notice"></p>
+                    <p class="unavailable" id="unavailable-notice"></p>
+                </div>
+                <div class="card-face card-back">
+                    <div class="section">
+                        <h3>Aktivt stof</h3>
+                        <ul id="aktivt-stof-list"></ul>
+                    </div>
+                    <div class="section">
+                        <h3>Indikationer</h3>
+                        <div id="indikationer-list"></div>
+                    </div>
+                    <a id="source-link" href="#" target="_blank" rel="noopener">Se produktresumé →</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button id="prev-btn" class="btn">← Forrige</button>
+            <button id="flip-btn" class="btn btn-primary">Vend kort</button>
+            <button id="next-btn" class="btn">Næste →</button>
+        </div>
+
+        <div class="progress-bar">
+            <div class="progress-fill" id="progress-fill"></div>
+        </div>
+
+        <div class="keyboard-hint">
+            Tastatur: ← / → for navigation, Mellemrum for at vende kort
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

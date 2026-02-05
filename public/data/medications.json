@@ -1,0 +1,1053 @@
+[
+  {
+    "input_name": "Adrenalin inj. 1 mg/ml",
+    "varenr": "491764",
+    "found": false
+  },
+  {
+    "input_name": "Metacam inj. 5 mg/ml",
+    "varenr": "025388",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Metacam2 mg/ml Injektionsvæske, opløsning\n                        (Htgl)1 x 10 ml",
+    "spc_url": "https://vetisearch.dk/spcs/191-metacam",
+    "aktivt_stof": [
+      "Meloxicam : 2 mg/ml"
+    ],
+    "indikationer": [
+      "Lindring af milde til moderate postoperative smerter og inflammation efter kirurgiske indgreb hos kat, f.eks. ortopædisk- og bløddelskirurgi."
+    ]
+  },
+  {
+    "input_name": "Rimadyl Vet. 50 mg, tabletter",
+    "varenr": "018168",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Rimadyl vet. (25 - 50 kg)100 mg Tyggetablet\n                        (Plastbeh.)1 x 20 stk, 1 x 100 stk",
+    "spc_url": "https://vetisearch.dk/spcs/5864-rimadyl-vet-25-50-kg",
+    "aktivt_stof": [
+      "Carprofen : 100 mg"
+    ],
+    "indikationer": [
+      "Til behandling af aseptiske inflammationer og smertetilstande i bevægeapparatet samt til postoperativ smertebehandling."
+    ]
+  },
+  {
+    "input_name": "Synulox vet. 50 mg, tabletter",
+    "varenr": "017930",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Synulox vet. (40 kg)400 + 100 mg Tablet\n                        (Blisterpak.)1 x 20 stk",
+    "spc_url": "https://vetisearch.dk/spcs/2026-synulox-vet-40-kg",
+    "aktivt_stof": [
+      "Amoxicillin (Amoxicillin-trihydrat) : 400 mg",
+      "Clavulansyre (Kaliumclavulanat) : 100 mg"
+    ],
+    "indikationer": [
+      "Infektioner forårsaget af amoxicillin/clavulansyrefølsomme bakterier."
+    ]
+  },
+  {
+    "input_name": "Engemycin 10% vet. inj.",
+    "varenr": "017817",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Engemycin vet.100 mg/ml Injektionsvæske, opløsning\n                        (Htgl)1 x 100 ml, 1 x 250 ml",
+    "spc_url": "https://vetisearch.dk/spcs/1535-engemycin-vet",
+    "aktivt_stof": [
+      "Oxytetracyclin (Oxytetracyclin-hydrochlorid) : 100 mg/ml"
+    ],
+    "indikationer": [
+      "Infektioner forårsaget af tetracyclinfølsomme bakterier."
+    ]
+  },
+  {
+    "input_name": "Borgal vet. 200 mg/40 mg, tabletter",
+    "varenr": "017914",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Borgal vet.200 + 40 mg/ml Injektionsvæske, opløsning\n                        (Htgl)1 x 100 ml, 5 x 100 ml",
+    "spc_url": "https://vetisearch.dk/spcs/1340-borgal-vet",
+    "aktivt_stof": [
+      "Sulfadoxin : 200 mg/ml",
+      "Trimethoprim : 40 mg/ml"
+    ],
+    "indikationer": [
+      "Infektioner forårsaget af sulfonamid/trimethoprimfølsomme mikroorganismer."
+    ]
+  },
+  {
+    "input_name": "Baytril vet. 50 mg, tabletter",
+    "varenr": "018001",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Baytril vet. (10 kg)50 mg Tablet\n                        (Blisterpak.)1 x 10 stk",
+    "spc_url": "https://vetisearch.dk/spcs/1317-baytril-vet-10-kg",
+    "aktivt_stof": [
+      "Enrofloxacin : 50 mg"
+    ],
+    "indikationer": [
+      "Infektioner forårsaget af enrofloxacinfølsomme bakterier:",
+      "a) Øvre og nedre luftveje hos hunde og katte",
+      "b) Urinvejsinfektioner hos hunde og katte",
+      "c) Pyometra hos hunde i forbindelse med hysterektomi eller udskrabning af uterus",
+      "d) Prostatitis hos hunde"
+    ]
+  },
+  {
+    "input_name": "Semintra 4 mg/ml, oral opløsning",
+    "varenr": "533446",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Semintra4 mg/ml Oral opløsning\n                        (Flaske)1 x 30 ml, 1 x 100 ml",
+    "spc_url": "https://vetisearch.dk/spcs/1121-semintra",
+    "aktivt_stof": [
+      "Telmisartan : 4 mg/ml"
+    ],
+    "indikationer": [
+      "Reduktion af proteinuri associeret med kronisk nyresygdom (CKD) hos kat. Behandling af systemisk hypertension hos kat."
+    ]
+  },
+  {
+    "input_name": "Convenia 80 mg, pulver og solvens",
+    "varenr": "528126",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Convenia80 mg/ml Pulver og solvens til injektionsvæske, opløsning\n                        (Htgl)1 x 10 ml",
+    "spc_url": "https://vetisearch.dk/spcs/860-convenia",
+    "aktivt_stof": [
+      "Cefovecin (Cefovecin-natrium) : 80 mg/ml"
+    ],
+    "indikationer": [
+      "Kun til anvendelse ved følgende infektioner, der kræver langtidsbehandling. Den antimikrobielle effekt af en enkelt injektion af veterinærlægemidlet varer i op til 14 dage.",
+      "Til behandling af hud og bindevævsinfektioner inklusive pyodermi, sår og abscesser forårsaget af Staphylococcus pseudintermedius, beta-haemolytiske Streptococci, Escherichia coli og/eller Pasteurella multocida.",
+      "Til behandling af urinvejsinfektioner forårsaget af Escherichia coli og Proteus spp.",
+      "Til adjunktiv behandling ved mekanisk eller operativ periodontal behandling af alvorlige infektioner i tandkødet og i det parodontale væv forårsaget af Porphyromonas spp. og Prevotella spp. (se også pkt. 3.5 ’Særlige forholdsregler vedrørende sikker anvendelse hos den dyreart, som lægemidlet er beregnet til.)",
+      "Til behandling af abscesser og sår i hud og bindevæv forårsaget af Pasteurella multocida, Fusobacterium spp., Bacteroides spp., Prevotella oralis, beta-haemolytiske Streptococci og/eller Staphylococcus pseudintermedius.",
+      "Til behandling af urinvejsinfektioner forårsaget af Escherichia coli."
+    ]
+  },
+  {
+    "input_name": "Fortekor vet. 5 mg, tabletter",
+    "varenr": "024406",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Fortekor Plus (20 - 40 kg)10 + 5 mg Tablet\n                        (Blisterpak.)1 x 30 stk",
+    "spc_url": "https://vetisearch.dk/spcs/5749-fortekor-plus-20-40-kg",
+    "aktivt_stof": [
+      "Benazepril (Benazepril-hydrochlorid) : 10 mg",
+      "Pimobendan : 5 mg"
+    ],
+    "indikationer": [
+      "Behandling af kongestivt hjertesvigt, som skyldes atrioventrikulær klapinsufficiens eller dilateret kardiomyopati hos hunde. Veterinærlægemidlet er en fast dosiskombination og bør kun bruges til patienter, hvis kliniske tegn er velkontrollerede ved administration af de samme doser af de enkelte komponenter (pimobendan og benazeprilhydrochlorid) indgivet samtidig."
+    ]
+  },
+  {
+    "input_name": "Cardalis vet. 5 mg/40 mg, tabletter",
+    "varenr": "532553",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Cardalis (10 - 20 kg)40 + 5 mg Tyggetablet\n                        (Plastbeh.)1 x 30 stk",
+    "spc_url": "https://vetisearch.dk/spcs/5706-cardalis-10-20-kg",
+    "aktivt_stof": [
+      "Spironolacton : 40 mg",
+      "Benazepril (Benazepril-hydrochlorid) : 5 mg"
+    ],
+    "indikationer": [
+      "Til behandling af kongestiv hjerteinsufficiens forårsaget af kronisk degenerativ valvulær sygdom hos hunde (i kombination med diuretika efter behov)."
+    ]
+  },
+  {
+    "input_name": "Vetmedin vet. 5 mg, kapsler",
+    "varenr": "025370",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Vetmedin vet. (5 kg)1,25 mg Tyggetablet\n                        (Blisterpak.)1 x 100 stk",
+    "spc_url": "https://vetisearch.dk/spcs/2118-vetmedin-vet-5-kg",
+    "aktivt_stof": [
+      "Pimobendan : 1,25 mg"
+    ],
+    "indikationer": [
+      "Behandling af kongestiv hjerteinsufficiens hos hund forårsaget af dilateret kardiomyopati (DCM) eller valvulær insufficiens (mitral og/eller trikuspidal regurgitation).",
+      "Behandling af DCM i det prækliniske stadie (asymptomatisk med en forøgelse af venstre ventrikels slut-systoliske og slut-diastoliske diameter) hos dobermann pinscher efter ekkokardiografisk diagnosticering af hjertesygdom.",
+      "Behandling af myxømatøs mitralklapsygdom (MMVD) hos hund i det prækliniske stadie (asymptomatisk med en systolisk mislyd over mitralklappen og øget hjertestørrelse) for at forsinke udvikling af kliniske tegn på hjerteinsufficiens."
+    ]
+  },
+  {
+    "input_name": "Prilactone vet. 40 mg, tabletter",
+    "varenr": "554695",
+    "found": false
+  },
+  {
+    "input_name": "Furix vet. 40 mg, tabletter",
+    "varenr": "018150",
+    "found": false
+  },
+  {
+    "input_name": "Cardisure vet. 5 mg, smag. tabletter",
+    "varenr": "533128",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Cardisure vet.3,5 mg/ml Oral opløsning\n                        (Flaske)1 x 42 ml",
+    "spc_url": "https://vetisearch.dk/spcs/1382-cardisure-vet",
+    "aktivt_stof": [
+      "Pimobendan : 3,5 mg/ml"
+    ],
+    "indikationer": [
+      "Til behandling af kongestiv hjerteinsufficiens hos hunde, som skyldes valvulær insufficiens (mitral og/eller tricuspidal tilbagestrømning) eller dilateret kardiomyopati."
+    ]
+  },
+  {
+    "input_name": "Forthyron vet. 200 mikrog., tabletter",
+    "varenr": "025917",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Forthyron flavoured vet.200 mikg Tablet\n                        (Blisterpak.)1 x 50 stk, 1 x 250 stk",
+    "spc_url": "https://vetisearch.dk/spcs/1630-forthyron-flavoured-vet",
+    "aktivt_stof": [
+      "Levothyroxin (Levothyroxin-Natrium) : 200 mikg"
+    ],
+    "indikationer": [
+      "Til behandling af hypothyreoidisme hos hunde."
+    ]
+  },
+  {
+    "input_name": "Felimazole vet. 5 mg, tabletter",
+    "varenr": "528444",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Felimazole vet.1,25 mg Filmovertrukken tablet\n                        (Blisterpak.)1 x 100 tabl.",
+    "spc_url": "https://vetisearch.dk/spcs/5886-felimazole-vet",
+    "aktivt_stof": [
+      "Thiamazol : 1,25 mg"
+    ],
+    "indikationer": [
+      "Til stabilisering af hyperthyreoidisme hos katte forud for operativ thyroidektomi. Til langtidsbehandling af hyperthyreoidisme hos katte."
+    ]
+  },
+  {
+    "input_name": "Prednisolon 5 mg, vet. tabletter",
+    "varenr": "017981",
+    "found": false
+  },
+  {
+    "input_name": "Atopica 100 mg, bløde kapsler",
+    "varenr": "527998",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Atopica vet.100 mg/ml Oral opløsning\n                        (Flaske)1 x 5 ml, 1 x 17 ml",
+    "spc_url": "https://vetisearch.dk/spcs/50531-atopica-vet",
+    "aktivt_stof": [
+      "Ciclosporin : 100 mg/ml"
+    ],
+    "indikationer": [
+      "Symptomatisk behandling af kronisk allergisk dermatitis hos katte.",
+      "Behandling af kroniske manifestationer af atopisk dermatitis hos hunde."
+    ]
+  },
+  {
+    "input_name": "Apoquel vet. 16 mg, tabletter",
+    "varenr": "535089",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Apoquel (6 - 9 kg)3,6 mg Filmovertrukken tablet\n                        (Blisterpak.)1 x 20 stk, 1 x 100 stk",
+    "spc_url": "https://vetisearch.dk/spcs/152-apoquel-6-9-kg",
+    "aktivt_stof": [
+      "Oclacitinib (Oclacitinib-maleat) : 3,6 mg"
+    ],
+    "indikationer": [
+      "Behandling af pruritus i forbindelse med allergisk dermatitis hos hunde.",
+      "Behandling af kliniske manifestationer på atopisk dermatitis hos hunde."
+    ]
+  },
+  {
+    "input_name": "Cytopoint 40 mg, inj.væske",
+    "varenr": "541356",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Cytopoint (30 - 40 kg)40 mg/htgl Injektionsvæske, opløsning\n                        (Htgl)1 x 2 stk",
+    "spc_url": "https://vetisearch.dk/spcs/5723-cytopoint-30-40-kg",
+    "aktivt_stof": [
+      "Lokivetmab : 40 mg/htgl"
+    ],
+    "indikationer": [
+      "Behandling af pruritus forbundet med allergisk dermatitis hos hunde.",
+      "Behandling af kliniske manifestering af atopisk dermatitis hos hunde."
+    ]
+  },
+  {
+    "input_name": "Malacetic aural, øredråber",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Posatex vet., øresalve",
+    "varenr": "527836",
+    "found": false
+  },
+  {
+    "input_name": "Surolan øredråber, emulsion",
+    "varenr": "018119",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Surolan vet.23 + 5 + 0,5293 mg/ml Kutansuspension/øredråber, suspension\n                        (Tube)1 x 15 ml, 1 x 30 ml",
+    "spc_url": "https://vetisearch.dk/spcs/40997-surolan-vet",
+    "aktivt_stof": [
+      "Miconazol (Miconazol-nitrat) : 23 mg/ml",
+      "Prednisolon (Prednisolon-acetat) : 5 mg/ml",
+      "Polymyxin B (Polymyxin B-sulfat) : 0,5293 mg/ml"
+    ],
+    "indikationer": [
+      "Otitis externa. Dermatitis inficeret med miconazol/polymixinfølsomme mikroorganismer hos hund og kat."
+    ]
+  },
+  {
+    "input_name": "Otomax, øresalve",
+    "varenr": "",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Otomax vet.2.640 IU/ml + 8,8 + 0,88 mg/ml Øredråber, suspension\n                        (d-beh)1 x 14 ml, 1 x 34 ml",
+    "spc_url": "https://vetisearch.dk/spcs/1850-otomax-vet",
+    "aktivt_stof": [
+      "Gentamicin (Gentamicin-sulfat) : 2.640 IU/ml",
+      "Clotrimazol : 8,8 mg/ml",
+      "Betamethason (Betamethason-valerat) : 0,88 mg/ml"
+    ],
+    "indikationer": [
+      "Behandling af akut otitis externa. Også til behandling af kortvarig opblussen af akutte symptomer ved kronisk otitis externa forårsaget af gentamicin-følsomme bakterier, f.eks. Staphylococcus intermedius, og clotrimazol-følsomme svampe, specielt Malasezzia pachydermatis."
+    ]
+  },
+  {
+    "input_name": "Canaural øredråber",
+    "varenr": "",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Canaural vet.100.000 IU/g + 5 + 5 + 2,5 mg/g Øredråber, suspension\n                        (Plastbeh.)1 x 15 ml, 1 x 25 ml",
+    "spc_url": "https://vetisearch.dk/spcs/1366-canaural-vet",
+    "aktivt_stof": [
+      "Nystatin : 100.000 IU/g",
+      "Framycetin (Framycetin-sulfat) : 5 mg/g",
+      "Fusidinsyre (Diethanolaminfusidat) : 5 mg/g",
+      "Prednisolon : 2,5 mg/g"
+    ],
+    "indikationer": [
+      "Otitis externa hos hund."
+    ]
+  },
+  {
+    "input_name": "Fucithalmic vet., øjengel",
+    "varenr": "025321",
+    "found": false
+  },
+  {
+    "input_name": "Exocin vet., øjendråber",
+    "varenr": "025313",
+    "found": false
+  },
+  {
+    "input_name": "Remend øjensalve",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Isathal 10 mg/ml øjendråber",
+    "varenr": "528630",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Isathal 1%10 mg/g Øjendråber, suspension\n                        (Tube)1 x 5 g",
+    "spc_url": "https://vetisearch.dk/spcs/1694-isathal-1",
+    "aktivt_stof": [
+      "Fusidinsyre (Fusidinsyre-hemihydrat) : 10 mg/g"
+    ],
+    "indikationer": [
+      "Til behandling af ukomplicerede øjeninfektioner hos hunde som følge af fusidinsyrefølsomme, grampositive bakterier."
+    ]
+  },
+  {
+    "input_name": "Lacrymine øjendråber",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Synotic øredråber, suspension",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Easotic vet., øredråber",
+    "varenr": "529397",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Easotic1.505 IU/ml + 15,1 + 1,11 mg/ml Øredråber, suspension\n                        (Htgl)1 x 10 ml",
+    "spc_url": "https://vetisearch.dk/spcs/444-easotic",
+    "aktivt_stof": [
+      "Gentamicin (Gentamicin-sulfat) : 1.505 IU/ml",
+      "Miconazol (Miconazol-nitrat) : 15,1 mg/ml",
+      "Hydrocortison (Hydrocortison-aceponat) : 1,11 mg/ml"
+    ],
+    "indikationer": [
+      "Behandling af akut betændelse i øregangen (otitis externa) og akut forværring af tilbagevendende betændelse i øregangen forårsaget af gentamicin-følsomme bakterier og miconazol-følsomme svampe, særligt Malassezia pachydermatis."
+    ]
+  },
+  {
+    "input_name": "Tresaderm øre-/hudsalve",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Nobivac SHP, inj.væske",
+    "varenr": "024505",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Nobivac DHP live vet.Lyofilisat og suspension til injektionsvæske, suspension\n                        (Htgl)5 x 1 dosis, 25 x 1 dosis",
+    "spc_url": "https://vetisearch.dk/spcs/1797-nobivac-dhp-live-vet",
+    "aktivt_stof": [
+      "Canin adenovirus (CAV2) (stamme Manhattan LPV3) (attenueret)",
+      "Canin parvovirus (CPV) (stamme 154) (attenueret)",
+      "Hundesyge (CDV) (stamme Onderstepoort) (attenueret)"
+    ],
+    "indikationer": [
+      "Aktiv immunisering af hunde mod hundesyge, hepatitis og parvovirus."
+    ]
+  },
+  {
+    "input_name": "Nobivac Lepto, inj.væske",
+    "varenr": "024489",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Nobivac DHP live vet.Lyofilisat og suspension til injektionsvæske, suspension\n                        (Htgl)5 x 1 dosis, 25 x 1 dosis",
+    "spc_url": "https://vetisearch.dk/spcs/1797-nobivac-dhp-live-vet",
+    "aktivt_stof": [
+      "Canin adenovirus (CAV2) (stamme Manhattan LPV3) (attenueret)",
+      "Canin parvovirus (CPV) (stamme 154) (attenueret)",
+      "Hundesyge (CDV) (stamme Onderstepoort) (attenueret)"
+    ],
+    "indikationer": [
+      "Aktiv immunisering af hunde mod hundesyge, hepatitis og parvovirus."
+    ]
+  },
+  {
+    "input_name": "Nobivac Rabies, inj.væske",
+    "varenr": "024497",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Nobivac DHP live vet.Lyofilisat og suspension til injektionsvæske, suspension\n                        (Htgl)5 x 1 dosis, 25 x 1 dosis",
+    "spc_url": "https://vetisearch.dk/spcs/1797-nobivac-dhp-live-vet",
+    "aktivt_stof": [
+      "Canin adenovirus (CAV2) (stamme Manhattan LPV3) (attenueret)",
+      "Canin parvovirus (CPV) (stamme 154) (attenueret)",
+      "Hundesyge (CDV) (stamme Onderstepoort) (attenueret)"
+    ],
+    "indikationer": [
+      "Aktiv immunisering af hunde mod hundesyge, hepatitis og parvovirus."
+    ]
+  },
+  {
+    "input_name": "Nobivac Tricat Trio, inj.væske",
+    "varenr": "024521",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Nobivac Tricat TrioLyofilisat og suspension til injektionsvæske, suspension\n                        (Htgl)1 x 25 dosis",
+    "spc_url": "https://vetisearch.dk/spcs/51149-nobivac-tricat-trio",
+    "aktivt_stof": [
+      "Felin calicivirus (FCV) (stamme F9) (attenueret)",
+      "Felin panleukopeni / parvovirus (FPLV) (stamme MW-1) (attenueret)",
+      "Felin rhinotracheitis / herpesvirus (FHV) (stamme G2620A) (attenueret)"
+    ],
+    "indikationer": [
+      "Aktiv immunisering af katte:",
+      "Indtræden af immunitet: for FCV og FVR: 4 uger; for FPLV: 3 uger. Varigheden af immunitet for FCV og FVR: 1 år; for FPLV: 3 år."
+    ]
+  },
+  {
+    "input_name": "Purevax RCP, pulver og solvens",
+    "varenr": "527976",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Purevax RCLyofilisat og suspension til injektionsvæske, suspension\n                        (Htgl)10 x 1 dosis",
+    "spc_url": "https://vetisearch.dk/spcs/24-purevax-rc",
+    "aktivt_stof": [
+      "Felin calicivirusantigen (stamme FCV 431 og G1) (attenueret)",
+      "Felin rhinotracheitis / herpesvirus (FHV) (stamme F2) (attenueret)"
+    ],
+    "indikationer": [
+      "Aktiv immunisering af katte, der er 8 uger eller ældre:",
+      "- mod felin viral rhinotracheitis for at reducere kliniske tegn,",
+      "- mod calicivirus infektion for at reducere kliniske tegn.",
+      "Indtræden af immunitet: 1 uge efter basisvaccination.",
+      "Varighed af immunitet: 1 år efter basisvaccination og 3 år efter seneste revaccination."
+    ]
+  },
+  {
+    "input_name": "Purevax FeLV, inj.væske",
+    "varenr": "528088",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Purevax FeLVInjektionsvæske, suspension\n                        (Htgl)10 x 1 dosis",
+    "spc_url": "https://vetisearch.dk/spcs/34-purevax-felv",
+    "aktivt_stof": [
+      "Felin leukæmi (FeLV) (rekombinant canarypox virus) (stamme vCP97)"
+    ],
+    "indikationer": [
+      "Aktiv immunisering af katte, der er 8 uger gamle eller ældre, mod felin leukæmi til beskyttelse mod persistent viræmi og kliniske tegn på sygdommen.",
+      "Indtræden af immunitet: 2 uger efter basisvaccination.",
+      "Varighed af immunitet: 1 år efter sidste vaccination."
+    ]
+  },
+  {
+    "input_name": "Leucofeligen FeLV/RCP, inj.væske",
+    "varenr": "",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Leucofeligen FeLV/RCPLyofilisat og suspension til injektionsvæske, suspension\n                        (Htgl)10 x 1 dosis, 50 x 1 dosis",
+    "spc_url": "https://vetisearch.dk/spcs/473-leucofeligen-felvrcp",
+    "aktivt_stof": [
+      "Felin calicivirus (FCV) (stamme F9) (attenueret)",
+      "Felin panleukopeni / parvovirus (FPLV) (stamme LR 72) (attenueret)",
+      "Felin rhinotracheitis / herpesvirus (FHV) (stamme F2) (attenueret)"
+    ],
+    "indikationer": [
+      "Aktiv immunisering af katte, der er 8 uger gamle eller ældre, mod:",
+      "- felin calicivirus til reduktion af kliniske symptomer,",
+      "- felin viral rhinotracheitis til reduktion af kliniske symptomer og virusudskillelse,",
+      "- felin panleukopeni til forebyggelse af leukopeni og reduktion af kliniske symptomer, - felin leukæmi til forebyggelse af persisterende viræmi og kliniske symptomer på sygdommen.",
+      "Indtræden af immunitet:",
+      "- 3 uger efter første injektion af basisvaccination for calicivirus",
+      "- 3 uger efter endt basisvaccination for viruskomponenterne mod panleukopeni og leukæmi. - 4 uger efter endt basisvaccination for rhinotracheitis virus.",
+      "Varigheden af immunitet:",
+      "1 år efter endt basisvaccination for alle komponenter.",
+      "Efter en boostervaccination givet 1 år efter endt basisvaccination er det vist, at varigheden af immunitet er 3 år for viruskomponenten mod leukæmi."
+    ]
+  },
+  {
+    "input_name": "Versican Plus DHPPi/L4, inj.væske",
+    "varenr": "534433",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Versican Plus DHPPiLyofilisat og suspension til injektionsvæske, suspension\n                        (Htgl)25 x 1 dosis",
+    "spc_url": "https://vetisearch.dk/spcs/1082-versican-plus-dhppi",
+    "aktivt_stof": [
+      "Canin adenovirus (CAV2) (stamme Bio 13) (attenueret)",
+      "Canin parainfluenzavirus 2 (CPIV2) (stamme 2-Bio 15) (attenueret)",
+      "Canin parvovirus 2b (CPV2b) (stamme CPV 2b-Bio 12/B) (attenueret)",
+      "Hundesyge (CDV) (stamme CDV-Bio 11/A) (attenueret)"
+    ],
+    "indikationer": [
+      "Til aktiv immunisering af hunde fra 6-ugers alderen:",
+      "− for at forebygge mortalitet samt de kliniske symptomer forårsaget af hundesygevirus",
+      "− for at forebygge mortalitet samt de kliniske symptomer forårsaget af hundeadenovirus type 1",
+      "− for at forebygge kliniske symptomer og begrænse virusudskillelse forårsaget af hundeadenovirus type 2",
+      "− for at forebygge kliniske symptomer, leukopeni og virusudskillelse forårsaget af hundeparvovirus og",
+      "− for at forebygge kliniske symptomer (næse- og øjenudflåd) og begrænse virusudskillelse forårsaget af hundeparainfluenzavirus.",
+      "Indtræden af immunitet:",
+      "− 3 uger efter første vaccination for CDV, CAV, CPV og",
+      "− 3 uger efter basisvaccination for CPiV.",
+      "Varighed af immunitet:",
+      "Mindst 3 år efter basisvaccination for hundesygevirus, hundeadenovirus type 1, hundeadenovirus type 2 og hundeparvovirus. Immunitetsvarighed overfor CAV-2 er ikke påvist ved virus challenge. Det blev påvist, at 3 år efter CAV-2-vaccinationen er der stadig tilstædeværelse af antistoffer. Beskyttende immunrespons mod CAV-2-associeret luftvejssygdomme anses for at vare i mindst 3 år. Mindst 1 år efter basisvaccination for CPiV."
+    ]
+  },
+  {
+    "input_name": "Milbemax små hunde/hvalpe, tbl.",
+    "varenr": "528304",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Milbemax vet. (1 - 2 kg)10 + 4 mg Filmovertrukken tablet\n                        (Blisterpak.)1 x 2 stk, 1 x 20 stk",
+    "spc_url": "https://vetisearch.dk/spcs/1760-milbemax-vet-1-2-kg",
+    "aktivt_stof": [
+      "Praziquantel : 10 mg",
+      "Milbemycinoxim : 4 mg"
+    ],
+    "indikationer": [
+      "Kat: Behandling af blandingsinfestationer med immature og adulte cestoder og nematoder af følgende arter:",
+      "Dipylidium caninum",
+      "Taenia spp.",
+      "Echinococcus spp.",
+      "Ancylostoma tubaeforme",
+      "Toxocara cati",
+      "Forebyggelse af hjerteorm (Dirofilaria immitis) hvis samtidig behandling mod cestoder er indiceret."
+    ]
+  },
+  {
+    "input_name": "Milbemax kat, små tabletter",
+    "varenr": "528282",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Milbemax vet. (1 - 2 kg)10 + 4 mg Filmovertrukken tablet\n                        (Blisterpak.)1 x 2 stk, 1 x 20 stk",
+    "spc_url": "https://vetisearch.dk/spcs/1760-milbemax-vet-1-2-kg",
+    "aktivt_stof": [
+      "Praziquantel : 10 mg",
+      "Milbemycinoxim : 4 mg"
+    ],
+    "indikationer": [
+      "Kat: Behandling af blandingsinfestationer med immature og adulte cestoder og nematoder af følgende arter:",
+      "Dipylidium caninum",
+      "Taenia spp.",
+      "Echinococcus spp.",
+      "Ancylostoma tubaeforme",
+      "Toxocara cati",
+      "Forebyggelse af hjerteorm (Dirofilaria immitis) hvis samtidig behandling mod cestoder er indiceret."
+    ]
+  },
+  {
+    "input_name": "Drontal hund, smag. tabletter",
+    "varenr": "532839",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Drontal (4 kg)230 + 20 mg Filmovertrukken tablet\n                        (Blisterpak.)1 x 2 stk, 1 x 24 stk",
+    "spc_url": "https://vetisearch.dk/spcs/1511-drontal-4-kg",
+    "aktivt_stof": [
+      "Pyrantel (Pyrantel-embonat) : 230 mg",
+      "Praziquantel : 20 mg"
+    ],
+    "indikationer": [
+      "Anthelmintikum mod rundorm (hageorm og spoleorm) og bændelorm hos kat.",
+      "Til behandling af blandingsinfestationer forårsaget af rundorm og bændelorm såsom:"
+    ]
+  },
+  {
+    "input_name": "Drontal kat, tabletter",
+    "varenr": "018044",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Drontal (4 kg)230 + 20 mg Filmovertrukken tablet\n                        (Blisterpak.)1 x 2 stk, 1 x 24 stk",
+    "spc_url": "https://vetisearch.dk/spcs/1511-drontal-4-kg",
+    "aktivt_stof": [
+      "Pyrantel (Pyrantel-embonat) : 230 mg",
+      "Praziquantel : 20 mg"
+    ],
+    "indikationer": [
+      "Anthelmintikum mod rundorm (hageorm og spoleorm) og bændelorm hos kat.",
+      "Til behandling af blandingsinfestationer forårsaget af rundorm og bændelorm såsom:"
+    ]
+  },
+  {
+    "input_name": "Panacur vet. 250 mg, tabletter",
+    "varenr": "024893",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Panacur vet. (10 kg)500 mg Tablet\n                        (Blisterpak.)1 x 10 stk",
+    "spc_url": "https://vetisearch.dk/spcs/5857-panacur-vet-10-kg",
+    "aktivt_stof": [
+      "Fenbendazol : 500 mg"
+    ],
+    "indikationer": [
+      "Infestationer med rundorm hos hund og kat.",
+      "Infestationer med tænier hos kat.",
+      "Infestationer med giardia hos hund."
+    ]
+  },
+  {
+    "input_name": "Profender spot-on kat 0,5-2,5 kg",
+    "varenr": "528398",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Profender (0,5 - 2,5 kg)30 + 7,5 mg/pipette Spot-on, opløsning\n                        (e-pip.)2 x 0,35 ml",
+    "spc_url": "https://vetisearch.dk/spcs/835-profender-05-25-kg",
+    "aktivt_stof": [
+      "Praziquantel : 30 mg/pipette",
+      "Emodepsid : 7,5 mg/pipette"
+    ],
+    "indikationer": [
+      "Til katte der har eller risikerer at få parasitære blandingsinfektioner forårsaget af følgende arter af rundorm, bændelorm og lungeorm:",
+      "Toxocara cati (voksne, juvenile, L4 og L3)",
+      "Toxocara cati (L3 larve) – behandling af hunkatte i den sidste del af drægtigheden for at forhindre overførsel til afkommet via mælken. Toxascaris leonina (voksne, juvenile og L4)",
+      "Ancylostoma tubaeforme (voksne, juvenile og L4)",
+      "Dipylidium caninum (voksne og juvenile)",
+      "Taenia taeniaeformis (voksne)",
+      "Echinococcus multilocularis (voksne)",
+      "Aelurostrongylus abstrusus (voksne)"
+    ]
+  },
+  {
+    "input_name": "Bravecto spot-on hund 10-20 kg",
+    "varenr": "536199",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Bravecto spot-on (1,2 - 2,8 kg)112,5 mg/pipette Spot-on, opløsning\n                        (e-pip.)1 x 1 stk",
+    "spc_url": "https://vetisearch.dk/spcs/33-bravecto-spot-on-12-28-kg",
+    "aktivt_stof": [
+      "Fluralaner : 112,5 mg/pipette"
+    ],
+    "indikationer": [
+      "Til behandling af flåt- og loppeangreb hos katte.",
+      "Dette veterinærlægemiddel er et systemisk insekticid og acaricid, der har øjeblikkelig og vedvarende dræbende effekt på lopper (Ctenocephalides felis) og flåter (Ixodes ricinus) i 12 uger.",
+      "Lopper og flåter skal sætte sig på værten og starte fødeindtag, før de udsættes for det aktive stof.",
+      "Veterinærlægemidlet kan anvendes som del af en behandlingsstrategi til kontrol af loppebetinget allergisk dermatitis (flea allergy dermatitis, FAD).",
+      "Til behandling af infestationer med øremider (Otodectes cynotis)."
+    ]
+  },
+  {
+    "input_name": "Bravecto kat 250 mg spot-on",
+    "varenr": "537900",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Bravecto spot-on (1,2 - 2,8 kg)112,5 mg/pipette Spot-on, opløsning\n                        (e-pip.)1 x 1 stk",
+    "spc_url": "https://vetisearch.dk/spcs/33-bravecto-spot-on-12-28-kg",
+    "aktivt_stof": [
+      "Fluralaner : 112,5 mg/pipette"
+    ],
+    "indikationer": [
+      "Til behandling af flåt- og loppeangreb hos katte.",
+      "Dette veterinærlægemiddel er et systemisk insekticid og acaricid, der har øjeblikkelig og vedvarende dræbende effekt på lopper (Ctenocephalides felis) og flåter (Ixodes ricinus) i 12 uger.",
+      "Lopper og flåter skal sætte sig på værten og starte fødeindtag, før de udsættes for det aktive stof.",
+      "Veterinærlægemidlet kan anvendes som del af en behandlingsstrategi til kontrol af loppebetinget allergisk dermatitis (flea allergy dermatitis, FAD).",
+      "Til behandling af infestationer med øremider (Otodectes cynotis)."
+    ]
+  },
+  {
+    "input_name": "Nexgard Spectra 7,5-15 kg, tbl.",
+    "varenr": "538795",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "NexGard Spectra (3,5 - 7,5 kg)18,75 + 3,75 mg Tyggetablet\n                        (Blisterpak.)1 x 3 stk",
+    "spc_url": "https://vetisearch.dk/spcs/6729-nexgard-spectra-35-75-kg",
+    "aktivt_stof": [
+      "Afoxolaner : 18,75 mg",
+      "Milbemycinoxim : 3,75 mg"
+    ],
+    "indikationer": [
+      "Til hunde med, eller i risiko for, blandede infestationer med ydre og indre parasitter.",
+      "Veterinærlægemidlet er udelukkende indiceret, når brug mod flåter, lopper eller mider og en eller flere af de øvrige målparasitter er indiceret på samme tid.",
+      "Ektoparasitter",
+      "Behandling af loppeinfestationer (Ctenocephalides felis og C.canis). Veterinærlægemidlet har en øjeblikkelig og vedvarende dræbende virkning i 5 uger. Lægemidlet kan indgå i en behandlingsstrategi til kontrol af loppebetinget allergisk dermatitis (FAD).",
+      "Behandling af flåtinfestationer (Dermacentor reticulatus, Ixodes ricinus, Ixodes hexagonus, Rhipicephalus sanguineus, Hyalomma marginatum). Veterinærlægemidlet har en øjeblikkelig og vedvarende dræbende virkning i 4 uger.",
+      "Lopper og flåter skal bide sig fast på værtsdyret og starte indtag af føde for at blive eksponeret for det aktive stof.",
+      "Behandling af demodicose (forårsaget af Demodex canis).",
+      "Behandling af skab (forårsaget af Sarcoptes scabiei var. canis).",
+      "Behandling af øremideinfestationer (forårsaget af Otodectes cynotis).",
+      "Gastrointestinale nematoder",
+      "Behandling af infestationer med følgende arter af voksne gastrointestinale nematoder: spolorm (Toxocara canis og Toxascaris leonina), hageorm (Ancylostoma caninum, Ancylostoma braziliense og Ancylostoma ceylanicum) samt piskeorm (Trichuris vulpis).",
+      "Andre nematoder",
+      "Forebyggelse af sygdom forårsaget af tropisk hjerteorm (Dirofilaria immitis larver) med månedlig behandling.",
+      "Forebyggelse af infestationer med fransk hjerteorm (angiostrongylose) (ved at reducere infektionsniveauet af umodne voksne (L5) og voksne stadier af Angiostrongylus vasorum) med månedlig behandling.",
+      "Forebyggelse af udvikling af øjenorm (thelaziosis) (infestation med voksne stadier af Thelazia callipaeda øjenorm) med månedlig behandling."
+    ]
+  },
+  {
+    "input_name": "Simparica 40 mg, tyggetabletter",
+    "varenr": "541208",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Simparica (20 - 40 kg)80 mg Tyggetablet\n                        (Blisterpak.)1 x 3 stk",
+    "spc_url": "https://vetisearch.dk/spcs/5763-simparica-20-40-kg",
+    "aktivt_stof": [
+      "Sarolaner : 80 mg"
+    ],
+    "indikationer": [
+      "Til behandling af flåtangreb (Dermacentor reticulatus, Ixodes hexagonus, Ixodes ricinus og Rhipicephalus sanguineus). Veterinærlægemidlet virker øjeblikkelig, og virker dræbende på flåter i mindst 5 uger.",
+      "Til behandling af loppeangreb (Ctenocephalides felis og Ctenocephalides canis). Veterinærlægemidlet er virksomt med øjeblikkelig virkning. Midlet virker dræbende på lopper og forebygger nye angreb i mindst 5 uger. Veterinærlægemidlet kan indgå i en behandlingsstrategi til kontrol af loppeallergidermatitis (Flea Allergy Dermatitis - FAD).",
+      "Til behandling af skab (Sarcoptes scabiei).",
+      "Til behandling af øremide infestationer (Otodectes cynotis).",
+      "Til behandling af demodicose (hårsækkemideangreb) (Demodex canis).",
+      "Til reduktion af risikoen for infektion med Babesia canis canis via transmission af Dermacentor reticulatus i 28 dage efter behandling. Effekten er indirekte på grund af veterinærlægemidlets aktivitet mod vektoren.",
+      "Lopper og flåter skal sætte sig på værten og begynde at æde for at blive eksponeret for det aktive stof."
+    ]
+  },
+  {
+    "input_name": "Comfortis 810 mg, tyggetabletter",
+    "varenr": "531146",
+    "found": false
+  },
+  {
+    "input_name": "Advocate hund 10-25 kg, spot-on",
+    "varenr": "528134",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Advocate (< 4 kg)40 + 4 mg/pipette Spot-on, opløsning\n                        (e-pip.)3 x 1 stk",
+    "spc_url": "https://vetisearch.dk/spcs/486-advocate-4-kg",
+    "aktivt_stof": [
+      "Imidacloprid : 40 mg/pipette",
+      "Moxidectin : 4 mg/pipette"
+    ],
+    "indikationer": [
+      "Til katte der har eller har risiko for at få parasitære blandingsinfektioner. Veterinærlægemidlet er kun indiceret, når brug mod lopper og en eller flere af de andre målparasitter er indiceret samtidig.",
+      "• Til behandling og forebyggelse af loppeangreb (Ctenocephalides felis),",
+      "• behandling af øremide infestationer (Otodectes cynotis),",
+      "• behandling af infestation med kattens skabmider (Notoedres cati),",
+      "• behandling af lungeormen Eucoleus aerophilus (syn. Capillaria aerophila) (voksne stadier),",
+      "• forebyggelse af sygdom forårsaget af kattens lungeorm (L3/L4 larver af Aelurostrongylus abstrusus)",
+      "• behandling af kattens lungeorm (Aelurostrongylus abstrusus (voksne stadier))",
+      "• behandling af kattens lungeorm (Troglostrongylus brevior (voksne stadier)) • behandling af øjeormen Thelazia callipaeda (voksne stadier)",
+      "• forebyggelse af hjerteorm sygdom (L3 og L4 larver af Dirofilaria immitis),",
+      "• behandling af infektioner med gastrointestinale nematoder (L4 larver, uudviklede voksenstadier og voksne stadier af Toxocara cati og Ancylostoma tubaeforme ).",
+      "Veterinærlægemidlet kan anvendes mod loppebetinget allergisk dermatitis, som en del af behandlingsstrategien.",
+      "Til fritter der har eller har risiko for at få parasitære blandingsinfektioner. Veterinærlægemidlet er kun indiceret, når brug mod lopper og forebyggelse af hjerteormsygdom er indiceret samtidig.",
+      "• Til behandling og forebyggelse af loppeangreb (Ctenocephalides felis),",
+      "• forebyggelse af sygdommen hjerteorm (L3- og L4-larver af Dirofilaria immitis)."
+    ]
+  },
+  {
+    "input_name": "Advocate kat 4-8 kg, spot-on",
+    "varenr": "528118",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Advocate (< 4 kg)40 + 4 mg/pipette Spot-on, opløsning\n                        (e-pip.)3 x 1 stk",
+    "spc_url": "https://vetisearch.dk/spcs/486-advocate-4-kg",
+    "aktivt_stof": [
+      "Imidacloprid : 40 mg/pipette",
+      "Moxidectin : 4 mg/pipette"
+    ],
+    "indikationer": [
+      "Til katte der har eller har risiko for at få parasitære blandingsinfektioner. Veterinærlægemidlet er kun indiceret, når brug mod lopper og en eller flere af de andre målparasitter er indiceret samtidig.",
+      "• Til behandling og forebyggelse af loppeangreb (Ctenocephalides felis),",
+      "• behandling af øremide infestationer (Otodectes cynotis),",
+      "• behandling af infestation med kattens skabmider (Notoedres cati),",
+      "• behandling af lungeormen Eucoleus aerophilus (syn. Capillaria aerophila) (voksne stadier),",
+      "• forebyggelse af sygdom forårsaget af kattens lungeorm (L3/L4 larver af Aelurostrongylus abstrusus)",
+      "• behandling af kattens lungeorm (Aelurostrongylus abstrusus (voksne stadier))",
+      "• behandling af kattens lungeorm (Troglostrongylus brevior (voksne stadier)) • behandling af øjeormen Thelazia callipaeda (voksne stadier)",
+      "• forebyggelse af hjerteorm sygdom (L3 og L4 larver af Dirofilaria immitis),",
+      "• behandling af infektioner med gastrointestinale nematoder (L4 larver, uudviklede voksenstadier og voksne stadier af Toxocara cati og Ancylostoma tubaeforme ).",
+      "Veterinærlægemidlet kan anvendes mod loppebetinget allergisk dermatitis, som en del af behandlingsstrategien.",
+      "Til fritter der har eller har risiko for at få parasitære blandingsinfektioner. Veterinærlægemidlet er kun indiceret, når brug mod lopper og forebyggelse af hjerteormsygdom er indiceret samtidig.",
+      "• Til behandling og forebyggelse af loppeangreb (Ctenocephalides felis),",
+      "• forebyggelse af sygdommen hjerteorm (L3- og L4-larver af Dirofilaria immitis)."
+    ]
+  },
+  {
+    "input_name": "Broadline kat stor, spot-on",
+    "varenr": "535055",
+    "found": false
+  },
+  {
+    "input_name": "Stronghold 60 mg kat, spot-on",
+    "varenr": "025750",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Stronghold Plus ( ≤ 2,5 kg)15 + 2,5 mg/pipette Spot-on, opløsning\n                        (e-pip.)3 x 1 stk",
+    "spc_url": "https://vetisearch.dk/spcs/240-stronghold-plus-25-kg",
+    "aktivt_stof": [
+      "Selamectin : 15 mg/pipette",
+      "Sarolaner : 2,5 mg/pipette"
+    ],
+    "indikationer": [
+      "Til katte, der er angrebet af, eller som risikerer blandet infestation med flåter og lopper, lus, mider, gastroentistinale nematoder eller hjerteorm. Veterinærlægemidlet er udelukkende indikeret til samtidig brug mod flåter og en eller flere af øvrige ovennævnte parasitter.",
+      "Ektoparasitter:",
+      "- Til behandling og forebyggelse af loppeinfestationer (Ctenocephalides spp.).Veterinærlægemidlet virker øjeblikkeligt og vedvarende. Midlet dræber lopper og forebygger nye angreb i 5 uger. Produktet dræber voksne lopper, før de lægger æg, i 5 uger. På grund af dets ovicidale og larvicidale virkning kan veterinærlægemidlet være med til at behandle eksisterende loppeinfestationer i dyrets omgivelser.",
+      "- Til reduktion af risikoen for infektion med Dipylidium caninum via overførsel med Ctenocephalides felis i en måned efter behandling. Effekten er indirekte på grund af produktets aktivitet mod vektoren.",
+      "- Produktet kan indgå i en behandlingsstrategi til kontrol af loppeallergi-dermatitis (Flea Allergy Dermatitis - FAD).",
+      "- Behandling af flåtinfestationer. Veterinærlægemidlet bekæmper øjeblikkeligt og vedvarende i 5 uger Ixodes ricinus og Ixodes hexagonus, 4 uger Dermacentor reticulatus og Rhipicephalus sanguineus.",
+      "- Behandling af øremider (Otodectes cynotis).",
+      "- Behandling af infestationer med bidende lus (Felicola subrostratus).",
+      "- Behandling af kattens skab (Notoedres cati).",
+      "Flåter skal sætte sig på værten og begynde at æde for at blive udsat for sarolaner.",
+      "- Behandling af voksne spolorm (Toxocara cati) og voksne hageorm (Ancylostoma tubaeforme).",
+      "- Forebyggelse af hjerteorm forårsaget af Dirofilaria immitis ved månedlig administration."
+    ]
+  },
+  {
+    "input_name": "Stronghold Plus 60 mg kat, spot-on",
+    "varenr": "542156",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Stronghold Plus ( ≤ 2,5 kg)15 + 2,5 mg/pipette Spot-on, opløsning\n                        (e-pip.)3 x 1 stk",
+    "spc_url": "https://vetisearch.dk/spcs/240-stronghold-plus-25-kg",
+    "aktivt_stof": [
+      "Selamectin : 15 mg/pipette",
+      "Sarolaner : 2,5 mg/pipette"
+    ],
+    "indikationer": [
+      "Til katte, der er angrebet af, eller som risikerer blandet infestation med flåter og lopper, lus, mider, gastroentistinale nematoder eller hjerteorm. Veterinærlægemidlet er udelukkende indikeret til samtidig brug mod flåter og en eller flere af øvrige ovennævnte parasitter.",
+      "Ektoparasitter:",
+      "- Til behandling og forebyggelse af loppeinfestationer (Ctenocephalides spp.).Veterinærlægemidlet virker øjeblikkeligt og vedvarende. Midlet dræber lopper og forebygger nye angreb i 5 uger. Produktet dræber voksne lopper, før de lægger æg, i 5 uger. På grund af dets ovicidale og larvicidale virkning kan veterinærlægemidlet være med til at behandle eksisterende loppeinfestationer i dyrets omgivelser.",
+      "- Til reduktion af risikoen for infektion med Dipylidium caninum via overførsel med Ctenocephalides felis i en måned efter behandling. Effekten er indirekte på grund af produktets aktivitet mod vektoren.",
+      "- Produktet kan indgå i en behandlingsstrategi til kontrol af loppeallergi-dermatitis (Flea Allergy Dermatitis - FAD).",
+      "- Behandling af flåtinfestationer. Veterinærlægemidlet bekæmper øjeblikkeligt og vedvarende i 5 uger Ixodes ricinus og Ixodes hexagonus, 4 uger Dermacentor reticulatus og Rhipicephalus sanguineus.",
+      "- Behandling af øremider (Otodectes cynotis).",
+      "- Behandling af infestationer med bidende lus (Felicola subrostratus).",
+      "- Behandling af kattens skab (Notoedres cati).",
+      "Flåter skal sætte sig på værten og begynde at æde for at blive udsat for sarolaner.",
+      "- Behandling af voksne spolorm (Toxocara cati) og voksne hageorm (Ancylostoma tubaeforme).",
+      "- Forebyggelse af hjerteorm forårsaget af Dirofilaria immitis ved månedlig administration."
+    ]
+  },
+  {
+    "input_name": "Program Suspension, oral suspension",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Capstar 57 mg, tabletter",
+    "varenr": "",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Capstar vet. (11 - 57 kg)57 mg Tablet\n                        (Blisterpak.)1 x 6 stk",
+    "spc_url": "https://vetisearch.dk/spcs/41429-capstar-vet-11-57-kg",
+    "aktivt_stof": [
+      "Nitenpyram : 57 mg"
+    ],
+    "indikationer": [
+      "Behandling af loppeangreb (C. felis)."
+    ]
+  },
+  {
+    "input_name": "Frontline Combo hund M, spot-on",
+    "varenr": "025396",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Frontline Combo vet. (2 - 10 kg)67 + 60,3 mg/pipette Spot-on, opløsning\n                        (e-pip.)3 x 1 stk, 6 x 1 stk",
+    "spc_url": "https://vetisearch.dk/spcs/1632-frontline-combo-vet-2-10-kg",
+    "aktivt_stof": [
+      "Fipronil : 67 mg/pipette",
+      "Methopren (S-Methopren) : 60,3 mg/pipette"
+    ],
+    "indikationer": [
+      "Anvendes mod loppeangreb alene eller angreb af både lopper, flåter og/eller bidende lus hos hunde:",
+      "• Behandling mod loppeangreb (Ctenocephalides spp.). Den insekticide virkning over for nye angreb af voksne lopper vedvarer i 8 uger.",
+      "Forebyggelsen af loppernes formering ved at hæmme udviklingen af æg (ovicid virkning) samt af larver og pupper fra æg lagt af voksne lopper (larvicid virkning) vedvarer i 8 uger efter behandling.",
+      "• Behandling mod flåtangreb (Ixodes ricinus, Dermacentor variabilis, Dermacentor reticulatus, Rhipicephalus sanguineus). Veterinærlægemidlets acaricide virkning over for flåter vedvarer i op til 4 uger.",
+      "• Behandling mod angreb af bidende lus (Trichodectes canis).",
+      "Veterinærlægemidlet kan indgå som led i behandlingen af loppebetinget allergisk dermatit."
+    ]
+  },
+  {
+    "input_name": "Frontline Combo kat, spot-on",
+    "varenr": "025362",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Frontline Combo vet. (2 - 10 kg)67 + 60,3 mg/pipette Spot-on, opløsning\n                        (e-pip.)3 x 1 stk, 6 x 1 stk",
+    "spc_url": "https://vetisearch.dk/spcs/1632-frontline-combo-vet-2-10-kg",
+    "aktivt_stof": [
+      "Fipronil : 67 mg/pipette",
+      "Methopren (S-Methopren) : 60,3 mg/pipette"
+    ],
+    "indikationer": [
+      "Anvendes mod loppeangreb alene eller angreb af både lopper, flåter og/eller bidende lus hos hunde:",
+      "• Behandling mod loppeangreb (Ctenocephalides spp.). Den insekticide virkning over for nye angreb af voksne lopper vedvarer i 8 uger.",
+      "Forebyggelsen af loppernes formering ved at hæmme udviklingen af æg (ovicid virkning) samt af larver og pupper fra æg lagt af voksne lopper (larvicid virkning) vedvarer i 8 uger efter behandling.",
+      "• Behandling mod flåtangreb (Ixodes ricinus, Dermacentor variabilis, Dermacentor reticulatus, Rhipicephalus sanguineus). Veterinærlægemidlets acaricide virkning over for flåter vedvarer i op til 4 uger.",
+      "• Behandling mod angreb af bidende lus (Trichodectes canis).",
+      "Veterinærlægemidlet kan indgå som led i behandlingen af loppebetinget allergisk dermatit."
+    ]
+  },
+  {
+    "input_name": "Activyl Tick Plus hund 20-40 kg",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Scalibor protectorband 65 cm",
+    "varenr": "528975",
+    "found": false
+  },
+  {
+    "input_name": "Seresto halsbånd kat",
+    "varenr": "534719",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Seresto vet. (< 8 kg)1,25 + 0,56 g/stk Medicinsk halsbånd\n                        (Dåse)1 x 1 stk",
+    "spc_url": "https://vetisearch.dk/spcs/1980-seresto-vet-8-kg",
+    "aktivt_stof": [
+      "Imidacloprid : 1,25 g/stk",
+      "Flumethrin : 0,56 g/stk"
+    ],
+    "indikationer": [
+      "Til katte med eller i risiko for blandingsinfestation af lopper og flåter.",
+      "Veterinærlægemidlet er kun indiceret, når samtidig behandling mod målparasitterne er indiceret.",
+      "Behandling af loppeangreb og forebyggelse af nye loppeangreb (Ctenocephalides felis) med insekticid virkning i 7 til 8 måneder.",
+      "Beskytter i dyrets nære omgivelser mod udvikling af loppelarver i 10 uger.",
+      "Veterinærlægemidlet kan anvendes som en del af behandlingsstrategien ved loppebetinget allergisk dermatitis, hvor dette tidligere er blevet diagnosticeret af en dyrlæge.",
+      "Forebyggelse af reinfestation med flåter (Ixodes ricinus) gennem acaricid (dræbende) virkning og repellerende (forhindrer blodsugning) virkning fra 2 dage til 8 måneder.",
+      "Forebyggelse af reinfestation med flåter (Rhipicephalus turanicus) gennem acaricid (dræbende) virkning fra 2 dage til 8 måneder.",
+      "Veterinærlægemidlet er virksomt mod larver, nymfer og voksne flåter.",
+      "Til hunde med eller i risiko for blandingsinfestation af lopper eller lus, og flåter eller sandfluer.",
+      "Veterinærlægemidlet er kun indiceret, når anvendelse mod de parasitter, som hver af de kombinerede aktive stoffer er rettet mod, er indiceret på samme tid.",
+      "Behandling af loppeangreb og forebyggelse af nye loppeangreb (Ctenocephalides canis, Ctenocephalides felis) med insekticid virkning i 7 til 8 måneder.",
+      "Beskytter i dyrets nære omgivelser mod udvikling af loppelarver i 8 måneder.",
+      "Veterinærlægemidlet kan anvendes som en del af behandlingsstrategien ved loppebetinget allergisk dermatitis, hvor dette tidligere er blevet diagnosticeret af en dyrlæge.",
+      "Forebyggelse af reinfestation med flåter (Ixodes ricinus, Rhipicephalus sanguineus) gennem acaricid (dræbende) virkning og repellerende (forhindrer blodsugning) virkning fra 2 dage til 8 måneder.",
+      "Forebyggelse af reinfestation med flåter (Dermacentor reticulatus) gennem acaricid (dræbende) virkning fra 2 dage til 8 måneder.",
+      "Veterinærlægemidlet er virksomt mod larver, nymfer og voksne flåter.",
+      "Reducerer risikoen for overførsel af patogenerne Babesia canis vogeli og Ehrlichia canis, og mindsker dermed risikoen for babesiose og ehrlichiose hos hunde i 7 måneder gennem acaricid og repellerende virkning på skovflåten Rhipicephalus sanguineus. Effekten er indirekte som følge af produktets virkning mod vektoren.",
+      "Reducerer risikoen for overførsel af patogenet Leishmania infantum i op til 8 måneder og mindsker dermed risikoen for leishmaniose hos hunde gennem en repellerende virkning på sandfluer. Effekten er indirekte som følge af produktets virkning mod vektorerne.",
+      "Behandling af angreb af bidende lus (Trichodectes canis)."
+    ]
+  },
+  {
+    "input_name": "Seresto halsbånd hund",
+    "varenr": "534697",
+    "found": true,
+    "exact_match": false,
+    "variant_name": "Seresto vet. (< 8 kg)1,25 + 0,56 g/stk Medicinsk halsbånd\n                        (Dåse)1 x 1 stk",
+    "spc_url": "https://vetisearch.dk/spcs/1980-seresto-vet-8-kg",
+    "aktivt_stof": [
+      "Imidacloprid : 1,25 g/stk",
+      "Flumethrin : 0,56 g/stk"
+    ],
+    "indikationer": [
+      "Til katte med eller i risiko for blandingsinfestation af lopper og flåter.",
+      "Veterinærlægemidlet er kun indiceret, når samtidig behandling mod målparasitterne er indiceret.",
+      "Behandling af loppeangreb og forebyggelse af nye loppeangreb (Ctenocephalides felis) med insekticid virkning i 7 til 8 måneder.",
+      "Beskytter i dyrets nære omgivelser mod udvikling af loppelarver i 10 uger.",
+      "Veterinærlægemidlet kan anvendes som en del af behandlingsstrategien ved loppebetinget allergisk dermatitis, hvor dette tidligere er blevet diagnosticeret af en dyrlæge.",
+      "Forebyggelse af reinfestation med flåter (Ixodes ricinus) gennem acaricid (dræbende) virkning og repellerende (forhindrer blodsugning) virkning fra 2 dage til 8 måneder.",
+      "Forebyggelse af reinfestation med flåter (Rhipicephalus turanicus) gennem acaricid (dræbende) virkning fra 2 dage til 8 måneder.",
+      "Veterinærlægemidlet er virksomt mod larver, nymfer og voksne flåter.",
+      "Til hunde med eller i risiko for blandingsinfestation af lopper eller lus, og flåter eller sandfluer.",
+      "Veterinærlægemidlet er kun indiceret, når anvendelse mod de parasitter, som hver af de kombinerede aktive stoffer er rettet mod, er indiceret på samme tid.",
+      "Behandling af loppeangreb og forebyggelse af nye loppeangreb (Ctenocephalides canis, Ctenocephalides felis) med insekticid virkning i 7 til 8 måneder.",
+      "Beskytter i dyrets nære omgivelser mod udvikling af loppelarver i 8 måneder.",
+      "Veterinærlægemidlet kan anvendes som en del af behandlingsstrategien ved loppebetinget allergisk dermatitis, hvor dette tidligere er blevet diagnosticeret af en dyrlæge.",
+      "Forebyggelse af reinfestation med flåter (Ixodes ricinus, Rhipicephalus sanguineus) gennem acaricid (dræbende) virkning og repellerende (forhindrer blodsugning) virkning fra 2 dage til 8 måneder.",
+      "Forebyggelse af reinfestation med flåter (Dermacentor reticulatus) gennem acaricid (dræbende) virkning fra 2 dage til 8 måneder.",
+      "Veterinærlægemidlet er virksomt mod larver, nymfer og voksne flåter.",
+      "Reducerer risikoen for overførsel af patogenerne Babesia canis vogeli og Ehrlichia canis, og mindsker dermed risikoen for babesiose og ehrlichiose hos hunde i 7 måneder gennem acaricid og repellerende virkning på skovflåten Rhipicephalus sanguineus. Effekten er indirekte som følge af produktets virkning mod vektoren.",
+      "Reducerer risikoen for overførsel af patogenet Leishmania infantum i op til 8 måneder og mindsker dermed risikoen for leishmaniose hos hunde gennem en repellerende virkning på sandfluer. Effekten er indirekte som følge af produktets virkning mod vektorerne.",
+      "Behandling af angreb af bidende lus (Trichodectes canis)."
+    ]
+  },
+  {
+    "input_name": "Blod-stop tabletter",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Den Standser Blodet",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Telizen vet. 100 mg, tabletter",
+    "varenr": "554091",
+    "found": false
+  },
+  {
+    "input_name": "Anxitane M, tabletter",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Gabapentin 100 mg kapsler",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Trazodone 50 mg tabletter",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Tramadol 50 mg kapsler",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Xylazin 20 mg/ml inj.",
+    "varenr": "",
+    "found": false
+  },
+  {
+    "input_name": "Ketaminol vet. 100 mg/ml inj.",
+    "varenr": "018184",
+    "found": true,
+    "exact_match": true,
+    "variant_name": "Ketaminol vet.50 mg/ml Injektionsvæske, opløsning\n                        (Htgl)1 x 20 ml",
+    "spc_url": "https://vetisearch.dk/spcs/1709-ketaminol-vet",
+    "aktivt_stof": [
+      "Ketamin (Ketamin-hydrochlorid) : 50 mg/ml"
+    ],
+    "indikationer": [
+      "Til beroligelse, immobilisering og anæstesi ved diagnostiske eller kirurgiske indgreb."
+    ]
+  }
+]
